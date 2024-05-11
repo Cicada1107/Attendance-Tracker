@@ -1,6 +1,6 @@
 # attendance_tracker
 
-A new Flutter project.
+A flutter based android application to keep track of your college attendance.
 
 ## Getting Started
 
